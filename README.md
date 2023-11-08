@@ -1,2 +1,2 @@
 # My-Portofolio
-https://my-portofolio-peach.vercel.app/
+www.afrizal29.my.id
